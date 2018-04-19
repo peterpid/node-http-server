@@ -23,8 +23,6 @@
   "devDependencies": {
     "globstar": "^1.0.0",
     "jshint": "^2.9.5",
-    "npm-run-all": "^4.1.2",
-    "onchange": "^3.3.0",
-    "rimraf": "^2.6.2"
+    "npm-run-all": "^4.1.2"
   }
 }
